@@ -1,14 +1,14 @@
 {
-  "name": "Mongo",
+  "name": "snippets-mongoose",
   "version": "0.0.0",
-  "description": "\"Simple command line application that stores and retrieve snippets of text\" ",
-  "main": "index.js",
+  "description": "A simple command line tool",
+  "main": "snippets.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lizz Hale",
   "license": "None",
   "dependencies": {
-    "mongodb": "^2.0.43"
+    "mongoose": "^4.1.8"
   }
 }
