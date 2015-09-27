@@ -1,0 +1,14 @@
+{
+  "name": "Snippets",
+  "version": "0.0.0",
+  "description": "Simple command line application that stores and retrieve snippets of text",
+  "main": "snippets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lizz Hale",
+  "license": "None",
+  "dependencies": {
+    "mongodb": "^2.0.43"
+  }
+}
